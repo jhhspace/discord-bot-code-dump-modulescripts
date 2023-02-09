@@ -34,7 +34,7 @@ client.on('message', message => {
         .setColor('#ED4245')
         .setTitle('An error occured')
         .setDescription('Please try again later or report to jhh at `jhh@jhhspace.com`')
-        .setURL('http://error.jhhspace.xyz/')
+        .setURL('http://error.jhhspace.com/')
         .setTimestamp()
         .setFooter('Jhhspace');
         message.reply(errEmbed);
