@@ -53,3 +53,5 @@ module.exports = {
       })
   }
 };
+
+// This code is open sourced and made by Jhhspace. For more questions, email me at support@jhhspace.com
